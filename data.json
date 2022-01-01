@@ -1,0 +1,84 @@
+{
+  "menu": [
+    {
+      "jenis": "Makanan",
+      "nama": "Nasi goreng",
+      "deskripsi": "Nasi goreng yang di lengkapi dengan berbagi toping",
+      "harga": "15000",
+      "estimasi": "25 menit",
+      "gambar": "https://awsimages.detik.net.id/community/media/visual/2021/01/07/nasi-goreng-solaria_43.jpeg?w=700&q=90"
+    },
+    {
+      "jenis": "Makanan",
+      "nama": "Nasi kucing",
+      "deskripsi": "Nasi denganporsi secukupnya yang dipisah deng",
+      "harga": "5000",
+      "estimasi": "5 menit",
+      "gambar": "https://awsimages.detik.net.id/community/media/visual/2021/09/14/fakta-menarik-nasi-kucing-2_43.jpeg?w=1200"
+    },
+    {
+      "jenis": "Makanan",
+      "nama": "Sate rembige",
+      "deskripsi": "Sate khas rembige lombok",
+      "harga": "15000",
+      "estimasi": "20 menit",
+      "gambar": "https://img-global.cpcdn.com/recipes/b2e5849cbc684671/1200x630cq70/photo.jpg"
+    },
+    {
+      "jenis": "Makanan",
+      "nama": "Nasi Kota Raja",
+      "deskripsi": "Nasi pedas khas kotaraja lombok",
+      "harga": "10000",
+      "estimasi": "5 menit",
+      "gambar": "https://7terbaik.com/wp-content/uploads/2018/11/Nasi-Kotaraja.jpg"
+    },
+    {
+      "jenis": "Minuman",
+      "nama": "es kelapa muda",
+      "deskripsi": "air kelapa muda yang ditambahkan dengan esbatu",
+      "harga": "3000",
+      "estimasi": "3 menit",
+      "gambar": "https://img.okezone.com/content/2019/02/18/320/2019457/segarnya-bisnis-es-kelapa-muda-berapa-modalnya-nnt169Ab0k.jpg"
+    },
+    {
+      "jenis": "Minuman",
+      "nama": "Kopi Hitam",
+      "deskripsi": "kopi hitam murni",
+      "harga": "5000",
+      "estimasi": "3 menit",
+      "gambar": "https://res.cloudinary.com/dk0z4ums3/image/upload/v1594099345/attached_image/ini-manfaat-konsumsi-kopi-hitam-dan-efek-sampingnya-untuk-kesehatan.jpg"
+    },
+    {
+      "jenis": "Minuman",
+      "nama": "Kopi luak",
+      "deskripsi": "kopi hasil permentasi oleh luak",
+      "harga": "10000",
+      "estimasi": "3 menit",
+      "gambar": "https://www.makanabis.com/bima-content/2019/10/17/l-bimacmsimport-201910170215141315050992-article_201910101530001.png"
+    },
+    {
+      "jenis": "Minuman",
+      "nama": "Wedang jahe",
+      "deskripsi": "minuman hangat dari jahe untuk menghangtkan badan",
+      "harga": "5000",
+      "estimasi": "5 menit",
+      "gambar": "https://www.masakapahariini.com/wp-content/uploads/2018/12/shutterstock_338815997.jpg"
+    },
+    {
+      "jenis": "Makanan",
+      "nama": "Cemil",
+      "deskripsi": "Jajanan terbuat dari ubi dengan berbagi macam warna",
+      "harga": "5000",
+      "estimasi": "25 menit",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/c29fUf-9BCtCql8f5Ym9dKVjJ_c=/469x260/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2492878/original/052475900_1543366554-resep-cara-membuat-jajanan-tradisional-cenil.jpg"
+    },
+    {
+      "jenis": "Minuman",
+      "nama": "Teh hangat",
+      "deskripsi": "King of minuman",
+      "harga": "3000",
+      "estimasi": "",
+      "gambar": "https://akcdn.detik.net.id/visual/2018/08/22/da9bd602-c262-41c7-a814-e6c92d0cfdbf_169.jpeg?w=650"
+    }
+  ]
+}
